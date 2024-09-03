@@ -16,15 +16,12 @@ Q 2. Insert following data into the corrosponding table :
 Q 3. Answer the following query :(a-j)
 
 Lab Assignment : 3
-
 Q 1. PERFORM THE FOLLOWING QUERIES :(1-30)
 
 Lab Assignment : 4
-
 Q 1. PERFORM THE FOLLOWING QUERIES :(1-20)
 
 Lab Assignment : 5
-
 Q 1. PERFORM THE FOLLOWING QUERIES :(1-16)
 
 
